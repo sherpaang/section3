@@ -1,0 +1,16 @@
+base
+PPBDS.data
+ggplot2
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+reprex
+gapminder
+gganimate
+gifski
+av
